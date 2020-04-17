@@ -1,0 +1,2 @@
+# Security-Quickstart-Guide
+Wenn Sie wie Microsoft plötzlich eine hauptsächlich heimbasierte Belegschaft unterstützen müssen, möchten wir Ihnen dabei helfen, sicherzustellen, dass Ihre Organisation so sicher wie möglich arbeiten kann. Wir haben Aufgaben und Themen zusammengestellt, mit denen Sicherheitsteams wichtige Sicherheits- und Verwaltungsfunktionen so schnell wie möglich implementieren können.
